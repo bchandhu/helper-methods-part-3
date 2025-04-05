@@ -4,7 +4,7 @@
 #
 #  id          :bigint           not null, primary key
 #  description :text
-#  image_url   :string
+#  image_url   :text
 #  released_on :date
 #  title       :string
 #  created_at  :datetime         not null
